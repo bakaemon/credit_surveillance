@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93094412455",
+    "project_id": "personal-7b48e",
+    "storage_bucket": "personal-7b48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93094412455:android:9521b4d8ed06bb19c85b82",
+        "android_client_info": {
+          "package_name": "com.binhtq.credit_surveillance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIOfNQo8IZWnYzP9w8UdaUc3gbnxLW8HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
